@@ -1,0 +1,14 @@
+/mnt/d/OOPS/Sample/c#compilation/consoleapp/bin/Debug/net8.0/consoleapp
+/mnt/d/OOPS/Sample/c#compilation/consoleapp/bin/Debug/net8.0/consoleapp.deps.json
+/mnt/d/OOPS/Sample/c#compilation/consoleapp/bin/Debug/net8.0/consoleapp.runtimeconfig.json
+/mnt/d/OOPS/Sample/c#compilation/consoleapp/bin/Debug/net8.0/consoleapp.dll
+/mnt/d/OOPS/Sample/c#compilation/consoleapp/bin/Debug/net8.0/consoleapp.pdb
+/mnt/d/OOPS/Sample/c#compilation/consoleapp/obj/Debug/net8.0/consoleapp.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/d/OOPS/Sample/c#compilation/consoleapp/obj/Debug/net8.0/consoleapp.AssemblyInfoInputs.cache
+/mnt/d/OOPS/Sample/c#compilation/consoleapp/obj/Debug/net8.0/consoleapp.AssemblyInfo.cs
+/mnt/d/OOPS/Sample/c#compilation/consoleapp/obj/Debug/net8.0/consoleapp.csproj.CoreCompileInputs.cache
+/mnt/d/OOPS/Sample/c#compilation/consoleapp/obj/Debug/net8.0/consoleapp.dll
+/mnt/d/OOPS/Sample/c#compilation/consoleapp/obj/Debug/net8.0/refint/consoleapp.dll
+/mnt/d/OOPS/Sample/c#compilation/consoleapp/obj/Debug/net8.0/consoleapp.pdb
+/mnt/d/OOPS/Sample/c#compilation/consoleapp/obj/Debug/net8.0/consoleapp.genruntimeconfig.cache
+/mnt/d/OOPS/Sample/c#compilation/consoleapp/obj/Debug/net8.0/ref/consoleapp.dll

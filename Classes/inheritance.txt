@@ -1,0 +1,45 @@
+**Inheritance in C#**
+
+Inheritance is a fundamental concept in object-oriented programming that allows you to define a new class based on an existing class. The new class, known as the derived class, inherits the properties and methods of the existing class, which is known as the base class². Inheritance promotes code reuse, simplifies code maintenance, and improves code organization⁷.
+
+**Types of Inheritance in C#**
+
+1. **Single Inheritance**: A derived class that inherits from only one base class⁶.
+    ```csharp
+    class Animal { ... } // base class
+    class Dog : Animal { ... } // derived class
+    ```
+
+2. **Multilevel Inheritance**: A derived class that inherits from a base class, which itself inherits from another base class⁶.
+    ```csharp
+    class Animal { ... } // base class
+    class Mammal : Animal { ... } // derived class
+    class Horse : Mammal { ... } // derived class
+    ```
+
+3. **Hierarchical Inheritance**: Multiple derived classes that inherit from a single base class⁶.
+    ```csharp
+    class Animal { ... } // base class
+    class Dog : Animal { ... } // derived class
+    class Cat : Animal { ... } // derived class
+    ```
+
+4. **Multiple Inheritance (using Interfaces)**: A derived class that inherits from two or more base classes. C# does not support multiple inheritances of classes. To overcome this problem, we can use interfaces⁶.
+    ```csharp
+    interface I1 { ... } // interface 1
+    interface I2 { ... } // interface 2
+    class MyClass : I1, I2 { ... } // class implementing two interfaces
+    ```
+
+These types of inheritance allow for a flexible and organized structure in your code, promoting reusability and maintainability⁷.
+
+Source: Conversation with Copilot, 10/7/2024
+(1) Tutorial: Introduction to Inheritance - C# | Microsoft Learn. https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/inheritance.
+(2) C# | Inheritance - GeeksforGeeks. https://www.geeksforgeeks.org/c-sharp-inheritance/.
+(3) Types of Inheritance In C# - C# Corner. https://www.c-sharpcorner.com/UploadFile/0c1bb2/types-of-inheritance-in-C-Sharp/.
+(4) C# Inheritance - W3Schools. https://www.w3schools.com/cs/cs_inheritance.php.
+(5) C# Inheritance - javatpoint. https://www.javatpoint.com/c-sharp-inheritance.
+(6) C# Inheritance (With Examples) - Programiz. https://www.programiz.com/csharp-programming/inheritance.
+(7) C# | Inheritance | Codecademy. https://www.codecademy.com/resources/docs/c-sharp/inheritance.
+(8) C# Types of Inheritance. https://www.programdoc.com/csharp/inheritance.
+(9) Types of Inheritance in C# - Code Maze. https://code-maze.com/csharp-types-of-inheritance/.

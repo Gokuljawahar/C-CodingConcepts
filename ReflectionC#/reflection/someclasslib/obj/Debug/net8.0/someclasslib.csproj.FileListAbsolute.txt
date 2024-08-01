@@ -1,0 +1,11 @@
+/mnt/d/OOPS/Sample/ReflectionC#/reflection/someclasslib/bin/Debug/net8.0/someclasslib.deps.json
+/mnt/d/OOPS/Sample/ReflectionC#/reflection/someclasslib/bin/Debug/net8.0/someclasslib.dll
+/mnt/d/OOPS/Sample/ReflectionC#/reflection/someclasslib/bin/Debug/net8.0/someclasslib.pdb
+/mnt/d/OOPS/Sample/ReflectionC#/reflection/someclasslib/obj/Debug/net8.0/someclasslib.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/d/OOPS/Sample/ReflectionC#/reflection/someclasslib/obj/Debug/net8.0/someclasslib.AssemblyInfoInputs.cache
+/mnt/d/OOPS/Sample/ReflectionC#/reflection/someclasslib/obj/Debug/net8.0/someclasslib.AssemblyInfo.cs
+/mnt/d/OOPS/Sample/ReflectionC#/reflection/someclasslib/obj/Debug/net8.0/someclasslib.csproj.CoreCompileInputs.cache
+/mnt/d/OOPS/Sample/ReflectionC#/reflection/someclasslib/obj/Debug/net8.0/someclasslib.dll
+/mnt/d/OOPS/Sample/ReflectionC#/reflection/someclasslib/obj/Debug/net8.0/refint/someclasslib.dll
+/mnt/d/OOPS/Sample/ReflectionC#/reflection/someclasslib/obj/Debug/net8.0/someclasslib.pdb
+/mnt/d/OOPS/Sample/ReflectionC#/reflection/someclasslib/obj/Debug/net8.0/ref/someclasslib.dll

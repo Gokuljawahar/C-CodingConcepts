@@ -1,0 +1,14 @@
+/mnt/d/OOPS/Sample/Array/array/bin/Debug/net8.0/array
+/mnt/d/OOPS/Sample/Array/array/bin/Debug/net8.0/array.deps.json
+/mnt/d/OOPS/Sample/Array/array/bin/Debug/net8.0/array.runtimeconfig.json
+/mnt/d/OOPS/Sample/Array/array/bin/Debug/net8.0/array.dll
+/mnt/d/OOPS/Sample/Array/array/bin/Debug/net8.0/array.pdb
+/mnt/d/OOPS/Sample/Array/array/obj/Debug/net8.0/array.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/d/OOPS/Sample/Array/array/obj/Debug/net8.0/array.AssemblyInfoInputs.cache
+/mnt/d/OOPS/Sample/Array/array/obj/Debug/net8.0/array.AssemblyInfo.cs
+/mnt/d/OOPS/Sample/Array/array/obj/Debug/net8.0/array.csproj.CoreCompileInputs.cache
+/mnt/d/OOPS/Sample/Array/array/obj/Debug/net8.0/array.dll
+/mnt/d/OOPS/Sample/Array/array/obj/Debug/net8.0/refint/array.dll
+/mnt/d/OOPS/Sample/Array/array/obj/Debug/net8.0/array.pdb
+/mnt/d/OOPS/Sample/Array/array/obj/Debug/net8.0/array.genruntimeconfig.cache
+/mnt/d/OOPS/Sample/Array/array/obj/Debug/net8.0/ref/array.dll

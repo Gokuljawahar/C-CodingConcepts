@@ -1,0 +1,14 @@
+/mnt/d/OOPS/Sample/ReflectionC#/reflection/someconsole/bin/Debug/net8.0/someconsole
+/mnt/d/OOPS/Sample/ReflectionC#/reflection/someconsole/bin/Debug/net8.0/someconsole.deps.json
+/mnt/d/OOPS/Sample/ReflectionC#/reflection/someconsole/bin/Debug/net8.0/someconsole.runtimeconfig.json
+/mnt/d/OOPS/Sample/ReflectionC#/reflection/someconsole/bin/Debug/net8.0/someconsole.dll
+/mnt/d/OOPS/Sample/ReflectionC#/reflection/someconsole/bin/Debug/net8.0/someconsole.pdb
+/mnt/d/OOPS/Sample/ReflectionC#/reflection/someconsole/obj/Debug/net8.0/someconsole.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/d/OOPS/Sample/ReflectionC#/reflection/someconsole/obj/Debug/net8.0/someconsole.AssemblyInfoInputs.cache
+/mnt/d/OOPS/Sample/ReflectionC#/reflection/someconsole/obj/Debug/net8.0/someconsole.AssemblyInfo.cs
+/mnt/d/OOPS/Sample/ReflectionC#/reflection/someconsole/obj/Debug/net8.0/someconsole.csproj.CoreCompileInputs.cache
+/mnt/d/OOPS/Sample/ReflectionC#/reflection/someconsole/obj/Debug/net8.0/someconsole.dll
+/mnt/d/OOPS/Sample/ReflectionC#/reflection/someconsole/obj/Debug/net8.0/refint/someconsole.dll
+/mnt/d/OOPS/Sample/ReflectionC#/reflection/someconsole/obj/Debug/net8.0/someconsole.pdb
+/mnt/d/OOPS/Sample/ReflectionC#/reflection/someconsole/obj/Debug/net8.0/someconsole.genruntimeconfig.cache
+/mnt/d/OOPS/Sample/ReflectionC#/reflection/someconsole/obj/Debug/net8.0/ref/someconsole.dll
